@@ -20,14 +20,14 @@ Run `composer update`
 
 Add to `app/AppKernel.php`
 ```
-    new lib\KCFinderBundle\libKCFinderBundle(),
+    new charlesparvin\KCFinderBundle\KCFinderBundle(),
 ```
 
 ###Configuration
 Add to `app/config/routing.yml`:
 ```
 kc_finder: 
-    resource: "@libKCFinderBundle/Resources/config/routing.yml" 
+    resource: "@KCFinderBundle/Resources/config/routing.yml" 
     prefix: /admin
 ```
 

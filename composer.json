@@ -1,0 +1,24 @@
+{
+    "name": "charlesparvin/kc-finder-bundle",
+    "type": "symfony-bundle",
+    "licence": "MIT",
+    "description": "Provides easy Symfony integration of the free open-source file manager KCFinder as an alternative to CKFinder",
+    "keywords": ["KCFinder", "CKFinder", "file", "image", "manager"],
+    "authors": [
+        {
+            "name": "Jocelyn Kerbourc'h",
+            "email": "jocelyn.kerbourch@gmail.com"
+        },
+        {
+            "name": "Charles Parvin",
+            "email": "parvincharles@gmail.com"
+        },
+    ],
+    "autoload": {
+        "psr-0": { "charlesparvin\\KCFinderBundle": "" }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.4"
+    }
+}

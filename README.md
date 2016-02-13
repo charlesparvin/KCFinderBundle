@@ -26,14 +26,14 @@ Add to `app/AppKernel.php`
 ###Configuration
 Add to `app/config/routing.yml`:
 ```
-lib_kcfinder: 
+kc_finder: 
     resource: "@libKCFinderBundle/Resources/config/routing.yml" 
     prefix: /admin
 ```
 
 Add to `app/config/config.yml` (configure upload directory as needed and don't forget to make it writable)
 ```
-lib_kc_finder:
+kc_finder:
     upload_url: "/uploads/images_articles"
     upload_dir: "%kernel.root_dir%/../web/uploads/images_articles"
 ```

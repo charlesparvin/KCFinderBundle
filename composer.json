@@ -12,7 +12,7 @@
         {
             "name": "Charles Parvin",
             "email": "parvincharles@gmail.com"
-        },
+        }
     ],
     "autoload": {
         "psr-0": { "charlesparvin\\KCFinderBundle": "" }

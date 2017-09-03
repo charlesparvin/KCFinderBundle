@@ -1,6 +1,6 @@
 <?php
 
-namespace charlesparvin\KCFinderBundle;
+namespace cautbur\KCFinderBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

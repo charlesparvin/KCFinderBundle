@@ -10,7 +10,7 @@ Add to `composer.json`
 },
 "repositories": [
     {
-        "url": "https://github.com/cautbur/KCFinderBundle.git",
+        "url": "https://github.com/charlesparvin/KCFinderBundle.git",
         "type": "git"
     }
 ]

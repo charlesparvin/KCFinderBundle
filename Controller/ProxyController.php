@@ -1,6 +1,6 @@
 <?php
 
-namespace charlesparvin\KCFinderBundle\Controller;
+namespace cautbur\KCFinderBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Response;

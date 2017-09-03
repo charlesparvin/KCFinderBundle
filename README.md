@@ -6,7 +6,7 @@ Fork based on [OwenRay's modifications](https://github.com/OwenRay/KCFinderBundl
 Add to `composer.json`
 ```
 "require": {
-    "charlesparvin/kc-finder-bundle": "dev-master"
+    "cautbur/kc-finder-bundle": "dev-master"
 },
 "repositories": [
     {

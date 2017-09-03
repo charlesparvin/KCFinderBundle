@@ -1,6 +1,6 @@
 KCFinderBundle for Symfony2 - Based on [KCFinder 3.1.2](http://kcfinder.sunhater.com)
 
-Fork based on [OwenRay's modifications](https://github.com/OwenRay/KCFinderBundle) to [jocelynkerbourch's original bundle]( https://github.com/jocelynkerbourch/KCFinderBundle)
+Fork based on [Charles's modifications](https://github.com/charlesparvin/KCFinderBundle) to [OwenRay's modifications](https://github.com/OwenRay/KCFinderBundle) to [jocelynkerbourch's original bundle]( https://github.com/jocelynkerbourch/KCFinderBundle)
 
 ###Installation
 Add to `composer.json`

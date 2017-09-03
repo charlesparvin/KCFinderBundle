@@ -10,7 +10,7 @@ Add to `composer.json`
 },
 "repositories": [
     {
-        "url": "https://github.com/charlesparvin/KCFinderBundle.git",
+        "url": "https://github.com/cautbur/KCFinderBundle.git",
         "type": "git"
     }
 ]
@@ -20,7 +20,7 @@ Run `composer update`
 
 Add to `app/AppKernel.php`
 ```
-    new charlesparvin\KCFinderBundle\KCFinderBundle(),
+    new cautbur\KCFinderBundle\KCFinderBundle(),
 ```
 
 ###Configuration
